@@ -1,2 +1,3 @@
 -> npm i
 -> Seguir las instrucciones 
+-> git pull origin main
