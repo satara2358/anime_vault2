@@ -1,3 +1,2 @@
 -> npm i
--> fetch a _data.ts
--> demo pull
+-> Seguir las instrucciones 
