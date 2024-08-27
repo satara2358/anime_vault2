@@ -1,2 +1,2 @@
 -> npm i
--> 
+-> fetch a _data.ts
