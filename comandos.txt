@@ -1,3 +1,4 @@
 -> npm i
 -> Seguir las instrucciones 
 -> git pull origin main
+-> npm i react-intersection-observer
